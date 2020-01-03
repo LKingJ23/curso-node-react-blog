@@ -1,0 +1,40 @@
+{
+    "folders": [
+		{
+			"path": "/home/miguel/node"
+		},
+		{
+			"path": "/home/miguel/angular"
+		},
+		{
+			"path": "/home/miguel/node-rasa"
+		},
+		{
+			"path": "/home/miguel/mongo"
+		},
+		{
+			"path": "/home/miguel/rasa"
+		},
+		{
+			"path": "/home/miguel/django/cursoDjango"
+		},
+		{
+			"path": "/home/miguel/rasaNode"
+		},
+		{
+			"path": "/home/miguel/pythonES"
+		},
+		{
+			"path": "/home/miguel/DjangoUdemy"
+		},
+		{
+			"path": "/home/miguel/flask"
+		},
+		{
+			"path": "/home/miguel/CursoUdemyReact"
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
+}

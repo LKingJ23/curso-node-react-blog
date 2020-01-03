@@ -1,0 +1,26 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+AprendiendoReact/node_modules
+AprendiendoReact/.pnp
+AprendiendoReact/.pnp.js
+BackendNode/node_modules
+BackendNode/.pnp
+BackendNode/.pnp.js
+
+# testing
+AprendiendoReact/coverage
+
+# production
+AprendiendoReact/build
+
+# misc
+AprendiendoReact/.DS_Store
+AprendiendoReact/.env.local
+AprendiendoReact/.env.development.local
+AprendiendoReact/.env.test.local
+AprendiendoReact/.env.production.local
+
+AprendiendoReact/npm-debug.log*
+AprendiendoReact/yarn-debug.log*
+AprendiendoReact/yarn-error.log*
